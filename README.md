@@ -1,2 +1,5 @@
 # hello-world
-just another repository 
+
+Hi Fella!
+
+Welcome to my learning note!
